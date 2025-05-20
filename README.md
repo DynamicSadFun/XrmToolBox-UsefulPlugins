@@ -10,6 +10,8 @@ While Microsoft has built an amazing low-code platform, many tasks — especiall
 
 ## 🤝 Contribute
 
+https://github.com/DynamicSadFun/XrmToolBox-UsefulPlugins/blob/main/ComparativeTable.md
+
 This table is a work in progress. Want to help?
 
 - Suggest new tools or features
